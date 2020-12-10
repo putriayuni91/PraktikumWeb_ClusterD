@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Lukas</awal>
+        <akhir>Sandy</akhir>
+    </nama>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <desa>Sukarame</desa>
+        <kecamatan>Sukarame</kecamatan>
+        <kabupaten>Bandar Lampung </kabupaten>
+    </alamat>
+
+    <sosialMedia>
+        <facebook>Lukas Sandy</facebook>
+        <instagram>michael.sebastian</instagram>
+    </sosialMedia>
+</dataDiri>
